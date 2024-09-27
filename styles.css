@@ -38,6 +38,11 @@ a {
     text-decoration: underline;
 }
 
+.webring {
+    float: right;
+    background-color: greenyellow;
+}
+
 section {
     background-color: #a4c059DD;
     padding: 0 10px;
